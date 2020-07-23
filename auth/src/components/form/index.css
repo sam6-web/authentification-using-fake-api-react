@@ -1,0 +1,44 @@
+input{
+    outline: none;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 40px;
+    padding-left: 10px;
+    border : none;
+    border-bottom: 1px solid gray;
+}
+button{
+    outline: none;
+    margin-bottom: 40px;
+}
+.form{
+    box-shadow: 2px 2px 2px 2px gray;  
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 420px;
+    margin: 50px auto;
+}
+.insideForm{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    background-color: transparent;
+    border : 1px solid #999;
+    box-shadow: 2px 2px 2px 2px gray;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    height: 1cm;
+    box-shadow: 2px 2px 2px 2px gray;
+    padding: 2%;
+}
+.mainpage{
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+}

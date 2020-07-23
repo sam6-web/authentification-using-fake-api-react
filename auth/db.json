@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "abd",
+      "email": "abd@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "abd",
+      "email": "abd@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "amira",
+      "email": "amira@g.c",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "azerty",
+      "email": "azerty@gmail.com",
+      "password": "147258369",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
